@@ -1,0 +1,8 @@
+/android/wine-tools
+/build
+/out/Wine.zip
+/out/share
+/out/lib
+/out/arm64-v8a
+/jniLibs
+/libs/prebuilt

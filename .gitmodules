@@ -1,0 +1,6 @@
+[submodule "wine"]
+	path = wine
+	url = https://github.com/miguelmazetto/wine
+[submodule "libs/gl4es"]
+	path = libs/gl4es
+	url = https://github.com/ptitSeb/gl4es
